@@ -1,0 +1,27 @@
+*{
+    /*background-image: url(u20.png);*/
+}
+header{
+    font-family:'Verdana Bold', 'Verdana', sans-serif;
+    font-weight:700;
+    color:#666666;
+    background-image: url(../img/header-back.png);
+    background-size: cover;
+    /*background-repeat: repeat-x;*/
+}
+#clear{
+    float: none;
+}
+#quit{
+position: relative;
+    float: right;
+    right: 10px;
+    /*background-image: url("../img/quit.png");*/
+    /*height: 70px;*/
+    /*width: 159px;*/
+    /*border: none;*/
+}
+/*#quit:hover{*/
+    /*cursor: hand;*/
+    /*border: 2px;*/
+/*}*/
